@@ -1,0 +1,122 @@
+//FORMAT///
+//ONLY MODIFY THE LAST 3 SPOTS, DONT LEAVE SPACES AFTER COMMA
+//LAST 3 Spots = Market price, Market price of special version, ALIAS,, you want to use in program
+Beer,1,empty,empty,1100,1100,ALIAS,Beer,Beer
+Bird Meat,1,empty,empty,4840,4840,ALIAS,Chicken Meat,
+Blood,1,empty,empty,5000,5000,ALIAS,Deer Blood,Deer Blood
+Bracken,1,empty,empty,6600,6600,ALIAS,Bracken,Bracken
+Butter,1,empty,empty,4000,1980,ALIAS,Butter,Butter
+Cheese,1,empty,empty,8000,8000,ALIAS,Cheese,Cheese
+Coconut,1,empty,empty,3770,3770,ALIAS,Coconut,Coconut
+Cream,1,empty,empty,2000,2000,ALIAS,Cream,Cream
+Date Palm,1,empty,empty,3180,3180,ALIAS,Date Palm,Date Palm
+Delotia1,1,empty,empty,4000,4000,ALIAS,Delotia, Delotia
+Delotia2,1,empty,empty,800,4000,ALIAS,High Quality Delotia,High Quality Delotia
+Delotia3,1,empty,empty,10000,4000,ALIAS,Special Delotia,Special Delotia
+Dough,1,empty,empty,1600,1600,ALIAS,Wheat Dough,Wheat Dough
+Dressing,1,empty,empty,1300,1300,ALIAS,Dressing,Dressing
+Egg,1,empty,empty,3200,3200,ALIAS,Egg,Egg
+EOL,1,empty,empty,340,340,ALIAS,Essence of Liquor,Essence of Liquor
+Exotic Wine,1,empty,empty,2170,2170,ALIAS,Exotic Herbal Wine,Exotic Herbal Wine
+Fig,1,empty,empty,2360,2360,ALIAS,Fig,Fig
+Fish,1,empty,empty,2000,2000,ALIAS,,
+Flour,1,empty,empty,1300,1300,ALIAS,Wheat Flour,Wheat Flour
+Freekeh,1,empty,empty,1890,1880,ALIAS,Freekeh,Freekeh
+Fruit,1,empty,empty,700,830,ALIAS,,
+Fruit Wine,1,empty,empty,2180,2180,ALIAS,Fruit Wine,
+Garlic1,1,empty,empty,4480,4480,ALIAS,Garlic,
+Garlic2,1,empty,empty,10300,10300,ALIAS,High-Quality Garlic,
+Garlic3,1,empty,empty,9600,9600,ALIAS,Special Garlic,
+Honey,1,empty,empty,2500,2500,ALIAS,Cooking Honey,
+Honey Wine,1,empty,empty,1250,1250,ALIAS,Honey Wine,
+Hot Pepper1,1,empty,empty,2750,2750,ALIAS,Hot Pepper,
+Hot Pepper2,1,empty,empty,12300,13000,ALIAS,High-Quality Hot Pepper,
+Hot Pepper3,1,empty,empty,13000,13000,ALIAS,Special Hot Pepper,
+Lion Meat,1,empty,empty,14600,14600,ALIAS,Lion Meat,
+Llama Meat,1,empty,empty,5000,5000,ALIAS,Llama Meat,
+Marmot Meat,1,empty,empty,7200,7200,ALIAS,Marmot Meat,
+Meat,1,empty,empty,9000,9000,ALIAS,Deer Meat,
+Milk,1,empty,empty,10800,10800,ALIAS,Milk,
+Nutmeg,1,empty,empty,3800,3670,ALIAS,Nutmeg,
+Onion1,1,empty,empty,4500,4500,ALIAS,Onion,
+Onion2,1,empty,empty,10000,10000,ALIAS,High-Quality Onion,
+Onion3,1,empty,empty,10000,10000,ALIAS,Special Onion,
+Pepper1,1,empty,empty,2550,2550,ALIAS,Pepper,
+Pepper2,1,empty,empty,12400,12400,ALIAS,High-Quality Pepper,
+Pepper3,1,empty,empty,11600,11600,ALIAS,Special Pepper,
+Purified Water,1,empty,empty,5000,11600,ALIAS,Purified Water,
+Rainbow Mush,1,empty,empty,8500,8500,ALIAS,Rainbow Button Mushroom,
+Scorpion Meat,1,empty,empty,9900,9900,ALIAS,Scorpion Meat,
+Seafood,1,empty,empty,6000,6000,ALIAS,,
+Snake Meat,1,empty,empty,12000,12000,ALIAS,Snake Meat,
+Soft Whale Meat,1,empty,empty,8250,8250,ALIAS,Soft Whale Meat,
+Special Sunflower,1,empty,empty,8000,8000,ALIAS,Special Sunflower,
+Star Anise,1,empty,empty,1200,1320,ALIAS,Star Anise,
+Teff Dough,1,empty,empty,1900,1900,ALIAS,Teff Dough,
+Teff Flour,1,empty,empty,1900,1900,ALIAS,Teff Flour,
+Vege,1,empty,empty,850,1200,ALIAS,,
+Vinegar,1,empty,empty,1200,1200,ALIAS,Vinegar,
+Wheat,1,empty,empty,333,333,ALIAS,Wheat,
+White Sauce,1,empty,empty,444,444,ALIAS,White Sauce,
+Wolf Blood,1,empty,empty,444,444,ALIAS,Wolf Blood,
+Yak Meat,1,empty,empty,10000,10000,ALIAS,Yak Meat,
+Boiled Bird Eggs,1,Egg,3,2400,2400,ALIAS,Boiled Bird Eggs,Appealing Boiled Bird Egg
+Cheese Gratin,0,Grilled Sausage-Dough-Vege-Cheese-Red Sauce,1-5-4-3-3,28500,57000,ALIAS,Cheese Gratin,Chewy Cheese Gratin
+Cheese Pie,0,Dough-Cheese-Butter-Egg,4-7-3-3,14800,14800,ALIAS,Cheese Pie,High-Quality Cheese Pie
+Coco Cocktail,0,Coconut-Exotic Wine-EOL-Fruit,2-1-2-1,5500,16500,ALIAS,Coconut Cocktail, Chilled Coconut Cocktail
+Coco Fish,0,Coconut-Fish-Egg-Dough,3-1-2-3,15000,15000,ALIAS,Coconut Fried Fish,Crispy Coconut Fried Fish
+Coco Pasta,0,Coconut-Onion1-Dough-Garlic3-White Sauce,2-2-5-1-1,66800,66600,ALIAS,Coconut Pasta,Sweet Coconut Pasta
+Couscous,0,Snake Stew-Teff Dough-Nutmeg-Vege,1-6-3-4,25300,25300,ALIAS,Couscous,Classic Couscous
+Date Wine,0,Date Palm-EOL,5-2,3180,3180,ALIAS,Date Palm Wine,Mild Date Palm Wine
+Dark Pudding,0,Oatmeal-Pickled Veg-Bird Meat-Blood,1-1-5-7,29300,87900,ALIAS,Dark Pudding,Bloody Dark Pudding
+Fig Pie,0,Fig-Dough,5-3,6100,6100,ALIAS,Fig Pie,Sweet Fig Pie
+Fish Salad,0,Fish-Onion2-Cheese-Dressing,1-1-2-2,11300,11300,ALIAS,Fish Fillet Salad,Fresh Fish Fillet Salad
+Fried Bracken,0,Bracken-Garlic3,8-5,25300,25300,ALIAS,Stir-Fried Bracken,Savory Stir-Fried Bracken
+Fried Meat,0,Meat-Onion2-Hot Pepper2,7-1-1,25000,50000,ALIAS,Stir-Fried Meat,Special Stir-Fried Meat
+Fried Vege,0,Vege-Hot Pepper2,5-2,7850,15700,ALIAS,Stir-Fried Vegetables,Crispy Stir-Fried Vegetables
+Grilled Sausage,0,Meat-Onion1-Pepper2,6-1-1,18300,36600,ALIAS,Grilled Sausage,Smoked Sausage
+Grilled Scorp,0,Scorpion Meat-Butter-Nutmeg-Hot Pepper2,3-2-3-1,27700,27700,ALIAS,Grilled Scorpion,Crispy Grilled Scorpion
+Ham Sand,0,Soft Bread-Grilled Sausage-Vege-Egg,2-2-5-4,29100,58200,ALIAS,Ham Sandwich,High-Quality Ham Sandwich
+Honey Cookie,0,Dough-Honey-Milk-Egg,4-6-4-2,20100,40200,ALIAS,Honeycomb Cookie,Crispy Honeycomb Cookie
+Hunter Salad,0,Soft Whale Meat-Vinegar-Dressing-Garlic3,1-2-2-1,21000,42000,ALIAS,Hunter's Salad,Fresh Hunter's Salad
+Jungle Hamburg,0,Lion Meat-Teff Bread-Pickled Veg-Nutmeg,4-4-2-3,39000,65500,ALIAS,King of Jungle Hamburg,Jumbo King of Jungle Hamburg
+Lean Meat Salad,0,Meat-Vinegar-Pepper2-Dressing,8-2-1-4,19000,38000,ALIAS,Lean Meat Salad,Top Grade Lean Meat Salad
+Llama Melt,0,Llama Meat-Cheese-Hot Pepper2-Pepper2-White Sauce,5-4-1-1-1,20300,40600,ALIAS,Skewered Llama Cheese Melt,Spicy Skewered Llama Cheese Melt
+Meat Croq,0,Meat-Flour-Egg-Cheese,8-5-2-2,25100,50200,ALIAS,Meat Croquette,Crispy Meat Croquette
+Meat Pasta,0,Meat-Dough-Pepper2-Garlic2,5-4-1-1,20600,20600,ALIAS,Meat Pasta,Spaghetti alla Bolognese
+Meat Pie,0,Meat-Dough,4-6,12900,12900,ALIAS,Meat Pie,Lean Meat Pie
+Meat Stew,0,Meat-Flour,5-2,10000,20000,ALIAS,Meat Stew,Thick Meat Stew
+Milk Tea,0,Tea With Fine-Milk-Honey-Flour,2-3-3-2,24400,48800,ALIAS,Milk Tea,Smooth Milk Tea
+Oatmeal,0,Flour-Milk-Honey-Onion2,9-3-2-1,17500,35000,ALIAS,Outmeal,Refined Oatmeal
+Rainbow Melt,0,Rainbow Mush-Meat-Cheese,1-2-2,27700,27700,ALIAS,Rainbow Button Mushroom Cheese Melt,Mild Rainbow Button Mushroom Cheese Melt
+Rainbow Sand,0,Rainbow Mush-Soft Bread-Cream-Onion1,1-1-2-2,26600,36600,ALIAS,Rainbow Button Mushroom Sandwich,Sweet Rainbow Button Mushroom Sandwich
+Roast Marmot,0,Marmot Meat-Hot Pepper2-Red Sauce,5-1-1,9550,19100,ALIAS,Roast Marmot,Golden Roast Marmot
+Sabzi,0,Yak Meat-Wheat-Garlic3-Milk,5-2-1-1,23100,23100,ALIAS,Ghormeh Sabzi,Thick Ghormeh Sabzi
+Savory Steak,0,Lion Meat-Fig-Pepper2,4-5-1,31000,31000,ALIAS,Savory Steak,Savory Steak
+Smoked Fish,0,Fish,1,2770,2770,ALIAS,Smoked Fish Steak,Golden Smoked Fish Steak
+Snake Stew,0,Freekeh-Snake Meat-Star Anise,6-3-2,22700,22700,ALIAS,Freekeh Snake Stew,Thick Freekeh Snake Stew
+Soft Bread,0,Dough-Egg-Milk,6-2-3,20000,20000,ALIAS,Soft Bread,Moist Milk Bread
+Steak,0,Meat-Garlic2-Red Sauce,8-1-2,17200,17200,ALIAS,Steak,Juicy Streak
+Sute Tea,0,Tea With Fine-Butter-Milk,2-2-3,23300,69900,ALIAS,Sute Tea,Healthy Sute Tea
+Tea With Fine,0,Fruit-Special Sunflower-Honey,4-1-3,7650,7650,ALIAS,Tea With Fine Scent,Tea with Strong Scent
+Teff Sand,0,Teff Bread-Snake Stew-Grilled Scorp-Red Sauce,1-1-1-3,31000,31000,ALIAS,Teff Sandwich,Spicy Teff Sandwich
+Kama Meal,0,Rainbow Sand-Coco Pasta-Fig Pie-Fruit Wine-Rainbow Melt,1-1-1-2-1,21300,63900,ALIAS,Kamasylvia Meal,Special Kamasylvia Meal
+Serendia Meal,0,Ham Sand-Meat Pie-Honey Cookie-Boiled Bird Eggs-Fruit Wine,1-1-1-2-2,26100,78300,ALIAS,Serendia Meal,Special Serendia Meal
+Valencia Meal,0,Teff Sand-Jungle Hamburg-Couscous-Fig Pie-Date Wine,1-1-1-2-2,28900,86700,val meal,Valencia Meal,Special Valencia Meal
+Drieghan Meal,0,Llama Melt-Fried Bracken-Roast Marmot-Sabzi-Honey Wine,1-1-1-1-2,316500,31500,ALIAS,Special Drieghanese Meal,Special Drieghanese Meal
+Knight Rations,0,Dark Pudding-Ham Sand-Meat Croq-Fruit Wine,1-1-1-1,29800,89400,ALIAS,Knight Combat Rations,Knight Combat Rations
+Arehaza Meal,0,Coco Cocktail-Coco Pasta-Coco Fish-Meat Stew-Steak,2-1-1-1-1,22800,68400,ALIAS,Special Arehaza Meal,Special Arehaza Meal
+Calph Meal,0,Soft Bread-Milk Tea-Fish Salad-Cheese Pie-Meat Pasta,2-1-1-1-1,35300,105900,ALIAS,Calpheon Meal,Special Calpheon Meal
+Balenos Meal,0,Cheese Gratin-Meat Croq-Smoked Fish-Fried Vege-Beer,1-1-1-2-2,22700,68100,ALIAS,Balenos Meal,Special Balenos Meal
+Mediah Meal,0,Dark Pudding-Oatmeal-Grilled Sausage-Lean Meat Salad-Exotic Wine,1-1-2-1-2,36700,110100,ALIAS,Mediah Meal,Specia Mediah Meal
+Red Sauce,0,Meat,1,4200,0,ALIAS,Red Sauce,zzz
+Teff Bread,0,Teff Flour,5,4200,4200,ALIAS,Teff Bread,Spongy Teff Bread
+Feed,0,Oatmeal-Meat-Bird Meat-Fish,2-5-4-1,4200,4200,ALIAS,Organic Feed,Organic Feed
+Pickled Veg,0,Vege-Vinegar,8-4,2480,2480,ALIAS,Pickled Vegetables,Sweet and Sour Pickled Vegetable
+Delotia Tea,0,Delotia3-Milk-Honey-Purified Water,1-3-3-3,17200,21000,ALIAS,Delotia Milk Tea,Fragrant Delotia Milk Tea
+Ody Meal,0,Delotia Pudding-Bracken And Meat-Delotia Juice-Chicken Salad-Stir Fried Bird,1-1-2-2-2,5555,5555,ALIAS,O'dyllita Meal,Special O'dyllita Meal
+Delotia Pudding,0,Delotia3-Wolf Blood-Honey Wine-Oatmeal-Purified Water,1-7-2-1-3,5555,5555,ALIAS,Delotia Pudding,Blood Red Delotia Pudding
+Bracken And Meat,0,Bracken-Meat-Garlic2,3-6-1,5555,5555,ALIAS,Stir-Fried Bracken and Meat,Light Stir-Fried Bracken and Meat
+Chicken Salad,0,Bird Meat-Fruit-Vege-Vinegar,5-5-5-1,5555,5555,ALIAS,Chicken Breast Salad,Fresh Chicken Breast Salad
+Stir Fried Bird,0,Bird Meat-Wheat-Onion1,5-5-3,5555,5555,ALIAS,Stir-Fried Bird,Savory Stir-Fried Bird
+Delotia Juice,0,Delotia3-Fruit-Purified Water,1-5-3,5555,5555,ALIAS,Delotia Juice,Chilled Delotia Juice
